@@ -2,6 +2,8 @@
 
 HTML、CSS、JavaScriptで作成したシンプルなテトリスゲームです。
 
+作成者: AFukunaga06
+
 ## 機能
 
 - 7種類のテトリミノ（I, L, J, O, Z, S, T）
